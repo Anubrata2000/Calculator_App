@@ -28,6 +28,6 @@ The Calculator App is a simple Android application developed using Android Studi
 Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or create a pull request.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact me at your.email@example.com.
+If you have any questions or suggestions, feel free to contact me at chatterjeeanubrata386@gmail.com.
 
 
