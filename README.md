@@ -27,9 +27,6 @@ The Calculator App is a simple Android application developed using Android Studi
 ## Contribution
 Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or create a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
-
 ## Contact
 If you have any questions or suggestions, feel free to contact me at your.email@example.com.
 
